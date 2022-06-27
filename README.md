@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Movie app which displays movie list and other description when you click on any movie.
+This is simple app to understand API integration,UI and responsiveness. 
 
 A few resources to get you started if this is your first Flutter project:
 
